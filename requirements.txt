@@ -5,7 +5,7 @@ six==1.9.0
 pycparser==2.10
 cryptography==0.8.1
 Jinja2==2.7.3
-Mako==1.0.1
+Mako==1.2.2
 MarkupSafe==0.23
 PyYAML==3.11
 SQLAlchemy==0.9.8
